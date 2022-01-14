@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://pythoninstitute.org/certification/pcep-certification-entry-level/">
-    <img src="https://pythoninstitute.org/wp-content/uploads/2019/03/bronze-1-small.png" alt="easybase logo black" width="250" height="250">
+    <img src="https://github.com/smhuda/python-pcep-notes/blob/main/pcep-logo.png" alt="easybase logo black" width="250" height="250">
   </a>
 </p>
 
